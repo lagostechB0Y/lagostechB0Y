@@ -72,7 +72,7 @@ You’ll find repositories here covering:
 - Architecture-focused prototypes
 - Internal tools built to solve real problems
 
-Most projects prioritize **clarity, structure, and long-term maintainability** over shortcuts.
+> Most projects prioritize **clarity, structure, and long-term maintainability** over shortcuts.
 
 ---
 
